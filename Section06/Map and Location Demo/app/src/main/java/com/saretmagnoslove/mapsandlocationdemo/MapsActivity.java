@@ -3,6 +3,8 @@ package com.saretmagnoslove.mapsandlocationdemo;
 import android.Manifest;
 import android.content.Context;
 import android.content.pm.PackageManager;
+import android.location.Address;
+import android.location.Geocoder;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
@@ -12,6 +14,7 @@ import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.FragmentActivity;
 import android.os.Bundle;
 import android.support.v4.content.ContextCompat;
+import android.util.Log;
 import android.widget.Toast;
 
 import com.google.android.gms.maps.CameraUpdateFactory;
@@ -20,6 +23,10 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
+
+import java.io.IOException;
+import java.util.List;
+import java.util.Locale;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
 
@@ -78,9 +85,55 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 LatLng userLocation = new LatLng(location.getLatitude(), location.getLongitude());
                 mMap.clear();
                 mMap.addMarker(new MarkerOptions().position(userLocation).title("You are here!"));
-                mMap.moveCamera(CameraUpdateFactory.newLatLng(userLocation));
+                mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userLocation, 15));
 
-                Toast.makeText(MapsActivity.this, location.toString(),Toast.LENGTH_LONG).show();
+                //Toast.makeText(MapsActivity.this, location.toString(),Toast.LENGTH_LONG).show();
+
+                Geocoder geocoder = new Geocoder(getApplicationContext(), Locale.getDefault());
+
+                try {
+                    List<Address> addressList =
+                            geocoder.getFromLocation(location.getLatitude(),location.getLongitude(),1);
+
+                    if (addressList != null && addressList.size() > 0) {
+
+                        //Log.i("place info", addressList.get(0).toString());
+
+                        String address = "";
+
+                        if (addressList.get(0).getSubThoroughfare() != null) {
+
+                            address += addressList.get(0).getSubThoroughfare() + " ";
+                        }
+
+                        if (addressList.get(0).getThoroughfare() != null) {
+
+                            address += addressList.get(0).getThoroughfare() + ", ";
+                        }
+
+                        if (addressList.get(0).getLocality() != null) {
+
+                            address += addressList.get(0).getLocality() + ", ";
+                        }
+
+                        if (addressList.get(0).getPostalCode() != null) {
+
+                            address += addressList.get(0).getPostalCode() + ", ";
+                        }
+
+                        if (addressList.get(0).getCountryName() != null) {
+
+                            address += addressList.get(0).getCountryName();
+                        }
+
+                        Toast.makeText(MapsActivity.this, address, Toast.LENGTH_LONG).show();
+
+
+                    }
+
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
             }
 
             @Override
@@ -115,7 +168,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                 LatLng userLocation = new LatLng(lastKnownLocation.getLatitude(), lastKnownLocation.getLongitude());
                 mMap.clear();
                 mMap.addMarker(new MarkerOptions().position(userLocation).title("You are here!"));
-                mMap.moveCamera(CameraUpdateFactory.newLatLng(userLocation));
+                mMap.moveCamera(CameraUpdateFactory.newLatLngZoom(userLocation, 15));
             }
         }
     }
