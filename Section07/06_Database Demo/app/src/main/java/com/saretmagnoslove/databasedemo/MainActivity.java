@@ -23,18 +23,55 @@ public class MainActivity extends AppCompatActivity {
 
             myDatabase.execSQL("INSERT INTO users (name,age) VALUES ('BraTac',132)");
 
-            Cursor c = myDatabase.rawQuery("SELECT * FROM users", null);
+            myDatabase.execSQL("INSERT INTO users (name,age) VALUES ('Lord Rahl',93)");
 
-            int nameIndex = c.getColumnIndex("name");
-            int ageIndex = c.getColumnIndex("age");
+            myDatabase.execSQL("INSERT INTO users (name,age) VALUES ('Buffy',23)");
+
+            Cursor c = myDatabase.rawQuery("SELECT * FROM users", null);
+/*
+            Cursor c = myDatabase.rawQuery("SELECT * FROM users WHERE age > 100", null);
+            Cursor c = myDatabase.rawQuery("SELECT * FROM users WHERE age > 100 AND name='Dracula'", null);
+            Cursor c = myDatabase.rawQuery("SELECT * FROM users WHERE name LIKE 'D%'", null);
+            Cursor c = myDatabase.rawQuery("SELECT * FROM users WHERE age > 100 AND name LIKE '%u%'", null);
+            Cursor c = myDatabase.rawQuery("SELECT * FROM users WHERE age > 100 LIMIT 1", null);
+*/
+            // myDatabase.execSQL("DELETE FROM users WHERE name = 'BraTac' LIMIT 1");
+
+            //myDatabase.execSQL("UPDATE users SET age = 123 WHERE name = 'BraTac' LIMIT 1");
+
+            /*myDatabase.execSQL("DELETE FROM users WHERE id IN (SELECT id FROM users " +
+                    "WHERE name = 'BraTac' LIMIT 1)"); */
+
+            myDatabase.execSQL("CREATE TABLE IF NOT EXISTS Newusers (name VARCHAR, age INT(3)," +
+                    "id INTEGER PRIMARY KEY)");
+
+            myDatabase.execSQL("CREATE TABLE IF NOT EXISTS users (name VARCHAR, age INT(3))");
+
+            myDatabase.execSQL("INSERT INTO Newusers (name,age) VALUES('Dracula',400)");
+
+            myDatabase.execSQL("INSERT INTO Newusers (name,age) VALUES ('BraTac',132)");
+
+            myDatabase.execSQL("INSERT INTO Newusers (name,age) VALUES ('Lord Rahl',93)");
+
+            myDatabase.execSQL("INSERT INTO Newusers (name,age) VALUES ('Buffy',23)");
+
+            myDatabase.execSQL("DELETE FROM Newusers WHERE id = 1");
+
+            Cursor curse = myDatabase.rawQuery("SELECT * FROM Newusers", null);
+
+            int nameIndex = curse.getColumnIndex("name");
+            int ageIndex = curse.getColumnIndex("age");
+            int idIndex = curse.getColumnIndex("id");
 
             c.moveToFirst();
-            while (c != null) {
+            while (curse != null) {
 
-                Log.i("name",c.getString(nameIndex));
-                Log.i("age",Integer.toString(c.getInt(ageIndex)));
+                Log.i("userResults - name",curse.getString(nameIndex));
+                Log.i("userResults - age",Integer.toString(curse.getInt(ageIndex)));
+                Log.i("userResults - id",Integer.toString(curse.getInt(idIndex)));
 
-                c.moveToNext();
+                curse.moveToNext();
+
             }
         }
         catch (Exception e) {
@@ -53,6 +90,8 @@ public class MainActivity extends AppCompatActivity {
             eventDB.execSQL("INSERT INTO events (event, year) VALUES ('Wham', 1988)");
 
             Cursor c = eventDB.rawQuery("SELECT * FROM events", null);
+
+
 
             int eventIndex = c.getColumnIndex("event");
             int yearIndex = c.getColumnIndex("year");
