@@ -1,4 +1,4 @@
-package com.saretmagnoslove.rssfeedreader.model;
+package com.saretmagnoslove.rssfeedreader.Model;
 
 import java.util.List;
 

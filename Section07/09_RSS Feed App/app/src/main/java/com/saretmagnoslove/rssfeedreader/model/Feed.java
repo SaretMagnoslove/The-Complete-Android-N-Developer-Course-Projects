@@ -1,4 +1,4 @@
-package com.saretmagnoslove.rssfeedreader.model;
+package com.saretmagnoslove.rssfeedreader.Model;
 
 /**
  * Created by avi on 1/21/2018.

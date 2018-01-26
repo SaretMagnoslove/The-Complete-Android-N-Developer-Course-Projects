@@ -7,6 +7,6 @@
         android:id="@+id/menu_refreash"
         android:icon="@drawable/ic_refreash"
         app:showAsAction="ifRoom"
-        android:title="Refreash"></item>
+        android:title="Refreash"/>
 
 </menu>
