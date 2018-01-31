@@ -4,6 +4,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.util.Log;
 
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.AdView;
+import com.google.android.gms.ads.MobileAds;
 import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -18,24 +21,14 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        DatabaseReference dbref = FirebaseDatabase.getInstance().getReference();
+        MobileAds.initialize(getApplicationContext(), "ca-app-pub-3940256099942544~3347511713");
 
-        Map<String, String> values = new HashMap<>();
+        AdView mAdView = (AdView) findViewById(R.id.adView);
 
-        values.put("name", "Valen");
+        AdRequest adRequest = new AdRequest.Builder().build();
 
-        dbref.push().setValue(values, new DatabaseReference.CompletionListener() {
-            @Override
-            public void onComplete(DatabaseError databaseError, DatabaseReference databaseReference) {
+        mAdView.loadAd(adRequest);
 
-                if (databaseError == null) {
 
-                    Log.i("Info", "save successful");
-                } else {
-
-                    Log.i("Info", "save failed");
-                }
-            }
-        });
     }
 }
