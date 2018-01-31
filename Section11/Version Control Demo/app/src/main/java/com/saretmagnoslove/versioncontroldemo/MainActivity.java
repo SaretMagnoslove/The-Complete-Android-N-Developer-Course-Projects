@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         String user = "Git user";
 
         //facebook sucks!!!
+
+        //actually its not that bad...
     }
 }
