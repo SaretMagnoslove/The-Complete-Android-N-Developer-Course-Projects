@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "853918391369",
+    "firebase_url": "https://fir-demo-project-eb6e0.firebaseio.com",
+    "project_id": "fir-demo-project-eb6e0",
+    "storage_bucket": "fir-demo-project-eb6e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:853918391369:android:cd86444c83b3168b",
+        "android_client_info": {
+          "package_name": "com.saretmagnoslove.firebasedemoapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "853918391369-j1d4rn6qmscs8r3oqug11noq2vfnddjl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4U_nh9GQb42gT6-_O3cxHCRySAEhUFGo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
