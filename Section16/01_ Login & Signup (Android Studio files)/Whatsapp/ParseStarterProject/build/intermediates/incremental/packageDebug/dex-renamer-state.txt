@@ -1,0 +1,7 @@
+#Mon Sep 26 11:17:15 BST 2016
+base.0=/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f87c3a8a2b40c284702d56a8b8564d6b23203ba
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f5971efd872036742b9933fcdd3bfd373b4a59dd/classes.dex
+base.1=/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f5971efd872036742b9933fcdd3bfd373b4a59dd
+file.0=/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f87c3a8a2b40c284702d56a8b8564d6b23203ba/classes.dex
