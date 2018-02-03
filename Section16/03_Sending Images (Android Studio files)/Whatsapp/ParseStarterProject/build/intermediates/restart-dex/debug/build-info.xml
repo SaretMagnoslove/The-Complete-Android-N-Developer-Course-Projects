@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    api-level="23"
+    density="xhdpi"
+    format="8"
+    plugin-version="2.2.0"
+    timestamp="7792482385347"
+    token="7370532360455751805"
+    verifier="FIELD_TYPE_CHANGE" >
+
+    <task
+        name="javac"
+        duration="1619" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="412" />
+    <task
+        name="verifier"
+        duration="7" />
+
+    <artifact
+        location="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="5054790038548"
+        verifier="MANIFEST_FILE_CHANGE" >
+        <artifact
+            location="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/outputs/apk/ParseStarterProject-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="6173803667603"
+        verifier="CLASS_ADDED" >
+        <artifact
+            location="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/instant-run-resources/resources-debug.ir.ap_"
+            type="RESOURCES" />
+        <artifact
+            location="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_6/classes.dex"
+            type="DEX" />
+        <artifact
+            location="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_4/classes.dex"
+            type="DEX" />
+    </build>
+    <build
+        timestamp="7792482385347"
+        verifier="FIELD_TYPE_CHANGE" >
+        <artifact
+            location="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/5/slice_2/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

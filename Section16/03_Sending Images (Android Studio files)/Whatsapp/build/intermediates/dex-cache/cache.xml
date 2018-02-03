@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/parse-android-1.13.0_dad18202da1f77a2b2d4626b645dd15f9fac1a68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.4.0_2a04167f92a307278cb02f793ae3b9bb3cc56589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.4.0_4f68b4483eb7a67844fb6e495bac885244b4cda0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/multidex/1.0.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-multidex-1.0.1_20ea2e4bd22f6eb682fe753c22305b0027f912ab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_f69858124fc6baeeb97b758bb82edd3e3a873059/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.4.0_f60ccbb8e1dd96a4418b2305c3dd020ac03bc5ff/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.4.0_d592488cbdca0649553ab7c807aafcafd2405cd9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-contextmanager-9.4.0_63b0c9542097f8efb8619a1aeb35f51dbdc97ff9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.4.0_d94935c5737331253ff95189fc3d3cf1107324e3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.4.0_60ac07ff5319e9b90d05fa7d10d8dae9db344e63/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.4.0_d0c3122c8afdf928418280965541983896a8bbd6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.4.0_56ed70fc333167014e85491cb31aa68c5b5e5584/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.4.0_7c0d8a17bc98dacc4726f0f960945613b4d2ee50/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-framework-9.4.0_6eb99245b3a201a0752f2057eb01471da21a9e0b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.4.0_12425d41bd8dd2c1fb6e57daf370468b7dcc8986/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.4.0_24fcdebafb28e3ff7ac58beb2226d07a974f7d97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.4.0_fe99816a50701b7ffe4cd57b83f31052d15f658e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.4.0_04274f1f6adfa80226817c64a551657340f80ba4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.4.0_4a4ff24deae32629b66687762977f61b70afec87/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.4.0_6eaa0a7a1c2e33eb4211bd7b85080caf01c81de5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.4.0_4ca982c00d627bd554fdc6d90690bb8075e2fb03/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.4.0_e69bc0a0cf5274cfee822b29c4967e1743ab1af2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.4.0_c0e45a0e633a0e7a1ceb56d850a6d6f61e1e60fa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.4.0_53310ab2a8250ed3fcad74bc108cf6ae7c24c4bb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_0b4994ee68e17e3317d65ad7564b736453b11af3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_8e1475112dc874a4596f5a19a1beaf1de5392902/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_d081e7d1669221c6b96fe27a51580c459d947216/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-clearcut-9.4.0_ea8f26bdee94efaa976955428b37889bd5721cc2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.4.0_ed45212d522d50ac19ef5edff5504a9a5a1a75b9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_d5196266c8d1eacbf57f64263d1f97c8cff4f018/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3b0c2bd8ab0b962fd5ee0ea292f495b323b74f12">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_f5971efd872036742b9933fcdd3bfd373b4a59dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.4.0_8f5f42c228c1ceaca5e0a59f3645c0387e5c5dd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gass-9.4.0_3310f51b4adf1fc8aed71f7fb195cf3222bce1a6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.4.0_8b4662a9ddb5a2c12d797896f5162d11c5868724/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.4.0_0a74848ecabbe84d58db27b7b518f50aac045898/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_eb36fb7066a41ddaec32d460587ac301b73306fb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.4.0_90aac25a851e9dd8ebdff1b02395d72459858d0d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-places-9.4.0_2a5f90f0ccc10567c6a388b21da69d448f5ce2fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_19d49cb4ac78566494867b71faec819f858b9c70/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.4.0_40c42d2a91c31945b3c9861161f684c7e054ca1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.4.0_a8e903df79f3defa7d10ea4e45fe005ff8e8df4a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.4.0_f3b958ad6825a069feed7251a48107c270b2c1c7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.4.0_ae3a075f592e76992e373b041c3352f821ad8b68/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.4.0_2e2add8521a39ae6aacf96cfac8061ba476d7d12/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.4.0_53fe8e18e67a1a49973e170ad0e66a9da816ab51/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.4.0_ccc2d08a08b60311f71eaa93b4cf0449a2f05b32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.4.0_e17166147b13f87d1aa003df3115a3082087e8ed/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_573b973734ce467fe0b034d1555969f3f6e8267c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.4.0_9b491dd1813efb73d4e7f24c9340ec252a424960/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.4.0_9debf6f767888c6994849f50c87760452739994d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="eb8052c2d221d1e7ebe474cd14b5e489710f2d62">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_7f87c3a8a2b40c284702d56a8b8564d6b23203ba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.4.0_d2aacd9cb9be04f8bbc0a8360635098d8a20a72f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.4.0_8dbba2ed4e064368214c14bd934f1675510f92cc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.4.0_3878ddcade54a10ff5bfcd9afe1c85e25e3f75d1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.4.0_dd6e18890323c90cb38b49c88f8f384c09a5428e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.4.0_33166389a028950ead0a908a878698cf46ac297d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.4.0_7fab096d3e1e921a219e9d56961e0dc2609ee025/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.4.0_f7fefd8b926b82b89189d6c393e5bbcd3e1eab2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.4.0_827dddefa327a1148f446a34ecc2255f47af4d29/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.4.0_048ef330efb6ac20f3bfcff00f537122eaf112dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/robpercival/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/robpercival/Desktop/Whatsapp/ParseStarterProject/build/intermediates/transforms/dex/debug/folders/1000/10/bolts-tasks-1.4.0_6454d756a1331c0dc72a1a0a08357e1a310c2df6/classes.dex" />
+    </item>
+
+</items>
